@@ -1,2 +1,2 @@
-1/ complete curses
-
+1. complete curses
+2. second class
